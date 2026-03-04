@@ -1,9 +1,9 @@
 
-CCF proposal Shanghai Global Blockchain Week
+CCF proposal Hong Kong Web3 Festival 2026
 =
 Proposal:
 -
-Request to approve the budget for the Shanghai Global Blockchain Week event.
+Request to approve the budget for the Hong Kong Web3 Festival 2026 event.
 
 Wallet: 
 KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
@@ -12,11 +12,11 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 18.3 bln QUBIC @price ($1800/Bln)
+Option 1: Yes, approved the budget of 10 bln QUBIC @price ($480/Bln)
 
 <br>
 
-I. Background of Shanghai Global Blockchain Week
+I. Background of Hong Kong Web3 Festival 2026
 =
 1.Industry Status:
 -
