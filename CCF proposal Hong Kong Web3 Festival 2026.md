@@ -267,19 +267,18 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 五、  执行团队
 =
-Zhangxingyuan（中文社区大使领袖）
+Zhangxingyuan
 
-MUYOU（中文社区大使）
+MUYOU
 
-MINI（中文社区大使）
+Gaohuahua
 
 <br>
 
  六、预算规划
 |类别|明细|金额|
 |---|---|---|
-|上海区块链周|展位、门票、差旅，奖品、物料、设计费|¥140,000
-|边会|宴会厅租赁/精品餐饮/印刷物料|¥50,000|
+|上海区块链周|门票、差旅，物料|¥140,000
 |媒体与推广||¥20,000|
 |运营费用||¥19,000|
 |总计||¥229，000|
