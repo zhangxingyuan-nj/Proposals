@@ -20,9 +20,7 @@ I. Background of Hong Kong Web3 Festival 2026
 =
 1.Industry Status:
 -
-1. The longest-running and highest-profile international blockchain event in China, hailed by global top-tier media such as Bloomberg and Coindesk as the "Asian Blockchain Davos."
-
-2. Attracts participants from 50+ countries per edition.
+Web3 Festival is a premier Web3 gathering co-hosted by Wanxiang Blockchain Labs and HashKey Group and organized by W3ME. Hong Kong Web3 Festival 2026 will take place on 20-23 Apr. at Hall5BCDE, HKCEC. Taking an area of over 14,000 sqm,this four-day event is expecting over 50,000 visitors, more than 300 influential speakers, 150 promising Web3 projects,communities and media from all over the world.
 
 2.Speaker Lineup:
 -
@@ -153,7 +151,7 @@ VI. Budget Plan
 
 提案：
 =
-请求批准香港WEB3嘉年华2026的预算
+请求批准参加香港WEB3嘉年华2026及uPoW的算力出租在中国可行性研究的预算
 
 钱包地址：
 KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
@@ -165,12 +163,12 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 <br>
 
-一、香港WEB3嘉年华2026背景
+一、香港WEB3嘉年华2026和中国算力需求背景
 =
-1.行业地位：
+1.Web3嘉年华行业地位：
 -
-中国区块链行业历史最悠久、规格最高的国际盛会,被彭博社、Coindesk等全球顶级媒体称为 “亚洲区块链达沃斯” ，单届吸引50+国家参会者。
-https://www.web3festival.org/hongkong2026/#/en
+香港Web3嘉年华是由万向区块链实验室与HashKey Group联合主办，W3ME承办的顶尖Web3行业盛会。2026香港Web3嘉年华将于2026年4月20日至23日在香港会议展览中心5BCDE展厅举行。这场为期四天的盛会将覆盖超1.4万平方米展览面积，预计吸引超过5万名参会者、300余位具有影响力的演讲嘉宾，以及来自全球的150个前沿Web3项目、社区及媒体。
+嘉年华官网地址：https://www.web3festival.org/hongkong2026/#/en
 
 2.嘉宾阵容：
 -
