@@ -168,6 +168,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 1.Web3嘉年华行业地位：
 -
 香港Web3嘉年华是由万向区块链实验室与HashKey Group联合主办，W3ME承办的顶尖Web3行业盛会。2026香港Web3嘉年华将于2026年4月20日至23日在香港会议展览中心5BCDE展厅举行。这场为期四天的盛会将覆盖超1.4万平方米展览面积，预计吸引超过5万名参会者、300余位具有影响力的演讲嘉宾，以及来自全球的150个前沿Web3项目、社区及媒体。
+
 嘉年华官网地址：https://www.web3festival.org/hongkong2026/#/en
 
 2.嘉宾阵容：
