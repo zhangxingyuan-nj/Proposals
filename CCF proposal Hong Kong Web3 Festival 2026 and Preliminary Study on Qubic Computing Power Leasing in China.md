@@ -125,7 +125,7 @@ VI. Budget Plan
 
 | Category | Details | Amount (USD) |
 |----------|---------|--------------|
-|Shanghai Blockchain Week|tickets, travel, materials|9,500|
+|Hong Kong Web3 Festival 2026|tickets, travel, materials|9,500|
 |Media & Promotion||900|
 |Operational Expenses||4,500|
 |Total||14,900|
