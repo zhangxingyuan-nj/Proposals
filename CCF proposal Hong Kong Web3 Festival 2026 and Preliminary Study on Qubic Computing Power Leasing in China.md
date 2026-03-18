@@ -12,7 +12,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 24.3 bln QUBIC @price ($600/Bln)
+Option 1: Yes, approved the budget of 23.7bln QUBIC @price ($800/Bln)
 
 <br>
 
@@ -125,10 +125,10 @@ VI. Budget Plan
 
 | Category | Details | Amount (USD) |
 |----------|---------|--------------|
-|Hong Kong Web3 Festival 2026|tickets, travel, materials|9,500|
+|Hong Kong Web3 Festival 2026|tickets, travel, materials|13,500|
 |Media & Promotion||900|
 |Operational Expenses||4,500|
-|Total||14,900|
+|Total||18,900|
 
 <br>
 <br>
@@ -150,7 +150,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准243亿QUBIC的预算@价格（600美元/十亿）
+选项1：是，批准237亿QUBIC的预算@价格（800美元/十亿）
 
 <br>
 
@@ -264,10 +264,10 @@ Gaohuahua
  六、预算规划
 |类别|明细|金额|
 |---|---|---|
-|香港WEB3嘉年华2026|门票、差旅，物料|¥55,000
+|香港WEB3嘉年华2026|门票、差旅，物料|¥95,000
 |媒体与推广||¥5,000|
 |运营费用||¥25,000|
-|总计||¥85，000|
+|总计||¥125，000|
  
 <br>
 <br>
