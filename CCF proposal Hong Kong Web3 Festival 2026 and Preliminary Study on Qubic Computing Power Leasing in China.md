@@ -12,7 +12,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 23.7bln QUBIC @price ($800/Bln)
+Option 1: Yes, approved the budget of 24bln QUBIC @price ($800/Bln)
 
 <br>
 
@@ -118,17 +118,20 @@ MUYOU
 
 Gaohuahua
 
+MINI
+
 <br>
 
-VI. Budget Plan
+VI. Budget Plan（4 People，4 Days）
 =
 
 | Category | Details | Amount (USD) |
 |----------|---------|--------------|
-|Hong Kong Web3 Festival 2026|tickets, travel, materials|13,500|
-|Media & Promotion||900|
-|Operational Expenses||4,500|
-|Total||18,900|
+|Hong Kong Web3 Festival 2026|tickets（$699 x4）, travel（$950 x4）,hotel（$180 x4 x4）|9,476|
+|Media & Promotion|On-site photography and videography,local multimedia live streaming|1,200|
+|Event materials|umbrella, clothing, hat, mouse pad, canvas bag（50 pieces per item, all with logos）|3,500|
+|Operational Expenses|Visits and interviews with major Chinese miners and large token holders, offline meetups with Qubic fans in Hong Kong and surrounding areas, and visits to local universities and enterprises|5,000|
+|Total||19,176|
 
 <br>
 <br>
@@ -150,7 +153,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准237亿QUBIC的预算@价格（800美元/十亿）
+选项1：是，批准240亿QUBIC的预算@价格（800美元/十亿）
 
 <br>
 
@@ -259,9 +262,11 @@ MUYOU
 
 Gaohuahua
 
+MINI
+
 <br>
 
- 六、预算规划
+ 六、预算规划（4个人）
 |类别|明细|金额|
 |---|---|---|
 |香港WEB3嘉年华2026|门票、差旅，物料|¥95,000
