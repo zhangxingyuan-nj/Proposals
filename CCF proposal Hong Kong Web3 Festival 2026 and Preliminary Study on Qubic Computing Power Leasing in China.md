@@ -130,7 +130,7 @@ VI. Budget Plan（4 People，4 Days）
 |Hong Kong Web3 Festival 2026|tickets（$699* x4）, travel（flight,train,bus,taxi,food $950 x4）,hotel（$180 x4 x4）|9,476|
 |Media & Promotion|On-site photography and videography,local multimedia live streaming(3 days, $300 x3)|900|
 |Event materials|umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|1,500|
-|Operational Expenses|1.Offline meetups with Qubic fans in Hong Kong and surrounding areas($800 for site and food); <br> 2.Visits and interviews with major Chinese miners,mining pool operators,and large token holders($200 for site and food); <br> 3. Visits to local universities and enterprises（$200 for site and food）; <br> 4. Workday salary compensation per member（$400 x4）;|2,800|
+|Operational Expenses|1.Offline meetups with Qubic fans in Hong Kong and surrounding areas($800 for site and food); <br> 2.Visits and interviews with major Chinese miners,mining pool operators,and large token holders($200 for site and food); <br> 3. Visits to local universities and enterprises（$200 for site and food）; <br> 4. Workday salary compensation per member（$100 x4 x4）;|2,800|
 |Total||14,676|
 <br>
 
