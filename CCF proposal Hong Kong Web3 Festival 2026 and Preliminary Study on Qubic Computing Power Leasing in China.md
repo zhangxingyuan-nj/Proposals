@@ -12,7 +12,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 24bln QUBIC @price ($800/Bln)
+Option 1: Yes, approved the budget of 18.4 bln QUBIC @price ($800/Bln)
 
 <br>
 
@@ -127,11 +127,15 @@ VI. Budget Plan（4 People，4 Days）
 
 | Category | Details | Amount (USD) |
 |----------|---------|--------------|
-|Hong Kong Web3 Festival 2026|tickets（$699 x4）, travel（$950 x4）,hotel（$180 x4 x4）|9,476|
-|Media & Promotion|On-site photography and videography,local multimedia live streaming|1,200|
-|Event materials|umbrella, clothing, hat, mouse pad, canvas bag（50 pieces per item, all with logos）|3,500|
-|Operational Expenses|1.Offline meetups with Qubic fans in Hong Kong and surrounding areas; <br> 2.Visits and interviews with major Chinese miners,mining pool operators,and large token holders; <br> 3. Visits to local universities and enterprises;|5,000|
-|Total||19,176|
+|Hong Kong Web3 Festival 2026|tickets（$699* x4）, travel（flight,train,bus,taxi,food $950 x4）,hotel（$180 x4 x4）|9,476|
+|Media & Promotion|On-site photography and videography,local multimedia live streaming(3 days, $300 x3)|900|
+|Event materials|umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|1,500|
+|Operational Expenses|1.Offline meetups with Qubic fans in Hong Kong and surrounding areas($800 for site and food); <br> 2.Visits and interviews with major Chinese miners,mining pool operators,and large token holders($200 for site and food); <br> 3. Visits to local universities and enterprises（$200 for site and food）; <br> 4. Workday salary compensation per member（$400 x4）;|2,800|
+|Total||14,676|
+<br>
+
+* The ticket price is $599 in March and $699 in April.
+
 
 <br>
 <br>
@@ -153,7 +157,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准240亿QUBIC的预算@价格（800美元/十亿）
+选项1：是，批准184亿QUBIC的预算@价格（800美元/十亿）
 
 <br>
 
@@ -269,11 +273,11 @@ MINI
  六、预算规划（4个人）
 |类别|明细|金额|
 |---|---|---|
-|香港WEB3嘉年华2026|tickets（$699 x4）, travel（$950 x4）,hotel（$180 x4 x4）|¥67,000|
-|媒体与推广|现场摄影及录像，本体多媒体直播|¥10,000|
-|活动物料|雨伞，衣服，帽子，鼠标垫，帆布包（每个带有logo都是50套 ）|¥25,000|
-|运营费用|1.中国大矿工，Apool矿池以及巨量持币者拜访和访谈 <br> 2.香港及周边地区Qubic粉丝线下见面会 <br> 3.当地大学和企业拜访|¥35,000|
-|总计||¥135，000|
+|香港WEB3嘉年华2026|tickets（$699 x4）, travel（机票，高铁，餐食 $950 x4）,hotel（$180 x4 x4）|¥67,000|
+|媒体与推广|现场摄影及录像，本体多媒体直播|¥6,000|
+|活动物料|雨伞 x20，衣服 x20，鼠标垫 x30，帆布包 x20，宣传手册 x100|¥10,000|
+|运营费用|1.中国大矿工，Apool矿池以及巨量持币者拜访和访谈 （￥1,500）<br> 2.香港及周边地区Qubic粉丝线下见面会（￥5000）<br> 3.当地大学和企业拜访（￥1,500）|¥8,000|
+|总计||¥91，000|
  
 <br>
 <br>
