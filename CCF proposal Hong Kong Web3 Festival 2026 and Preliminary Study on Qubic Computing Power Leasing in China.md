@@ -12,7 +12,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 18.4 bln QUBIC @price ($800/Bln)
+Option 1: Yes, approved the budget of 17.3 bln QUBIC @price ($850/Bln)
 
 <br>
 
@@ -68,7 +68,7 @@ Industry Positioning: Successfully establish the image of a "Pioneer in Distribu
 
 2.Business Conversion and Customer Acquisition
 -
-Potential Client Acquisition: Gather 100+ precise sales leads (covering leading model manufacturers, AI application companies, mining farms, and IDC service providers).
+Potential Client Acquisition: Gather 20+ precise sales leads (covering leading model manufacturers, AI application companies, mining farms, and IDC service providers).
 
 Computing Power Demand Research: Based on market feedback, produce a China Regional Computing Power Demand Survey Report.
 
@@ -157,7 +157,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准184亿QUBIC的预算@价格（800美元/十亿）
+选项1：是，批准173亿QUBIC的预算@价格（800美元/十亿）
 
 <br>
 
@@ -213,7 +213,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 2.商机转化与客户积累
 -
-潜在客户积累：收集100+ 精准销售线索（涵盖头部模型厂商、AI应用公司、矿场及IDC服务商）。
+潜在客户积累：收集20+ 精准销售线索（涵盖头部模型厂商、AI应用公司、矿场及IDC服务商）。
 
 算力需求调研：结合市场需求反馈，输出中国区算力需求调研表。
 
