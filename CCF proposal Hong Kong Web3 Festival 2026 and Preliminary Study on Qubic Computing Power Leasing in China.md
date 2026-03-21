@@ -12,7 +12,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 17.3 bln QUBIC @price ($850/Bln)
+Option 1: Yes, approved the budget of 18.4 bln QUBIC @price ($800/Bln)
 
 <br>
 
@@ -157,7 +157,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准173亿QUBIC的预算@价格（800美元/十亿）
+选项1：是，批准184亿QUBIC的预算 @价格（800美元/十亿）
 
 <br>
 
