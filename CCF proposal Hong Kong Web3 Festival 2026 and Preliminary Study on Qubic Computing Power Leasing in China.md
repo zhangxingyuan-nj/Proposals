@@ -1,5 +1,5 @@
 
-CCF proposal Hong Kong Web3 Festival 2026 
+CCF proposal Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in China
 =
 Proposal:
 -
