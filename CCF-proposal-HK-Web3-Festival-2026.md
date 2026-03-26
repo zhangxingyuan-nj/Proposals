@@ -1,5 +1,5 @@
 
-Proposal to Attend Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in China
+Attend Hong Kong Web3 Festival 2026 and Preliminary Study on Qubic Computing Power Leasing in China
 =
 Proposal:
 -
