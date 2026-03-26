@@ -12,7 +12,7 @@ CDDEDLNJNRDROEHDSRDQUBIQWZDBXBTQEYPSYXYVREAKYMKUUOUNYMIELACG
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 20.3 bln QUBIC @price ($850/Bln)
+Option 1: Yes, approved the budget of 19.6 bln QUBIC @price ($850/Bln)
 
 <br>
 
@@ -129,9 +129,9 @@ VI. Budget Plan（4 People，4 Days）
 |----------|---------|--------------|
 |Hong Kong Web3 Festival 2026|tickets（$699* x4）, travel（flight,train,bus,taxi,food $1150 x4）,hotel（$180 x4 x4）|10,276|
 |Media & Promotion|On-site photography and videography,local multimedia live streaming(3 days, $300 x3)|900|
-|Event materials|umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|2,200|
-|Operational Expenses|1.Community meetup — Qubic holders in HK& surrounding areas (venue & catering); <br> 2.Visits & interviews — Chinese miners, mining pool operators, large token holders; <br> 3.Outreach visits — local universities& enterprises; <br> 4.Workday compensation — $100/person/day × 4 persons × 4 days ;|3,800|
-|Total||17,176|
+|Event materials|umbrella x20, clothing x20, mouse pad x30, canvas bag x30, brochure x100|1,900|
+|Operational Expenses|1.Community meetup — Qubic holders in HK& surrounding areas (venue & catering); <br> 2.Visits & interviews — Chinese miners, mining pool operators, large token holders; <br> 3.Outreach visits — local universities& enterprises; <br> 4.Workday compensation — $100/person/day × 4 persons × 4 days ;|3,600|
+|Total||16,676|
 <br>
 
 * The ticket price is $599 in March and $699 in April.
@@ -157,7 +157,7 @@ CDDEDLNJNRDROEHDSRDQUBIQWZDBXBTQEYPSYXYVREAKYMKUUOUNYMIELACG
 ### 选项：
 选项0：否，我不同意
 
-选项1：是，批准203亿QUBIC的预算 @价格（850美元/十亿）
+选项1：是，批准196亿QUBIC的预算 @价格（850美元/十亿）
 
 <br>
 
